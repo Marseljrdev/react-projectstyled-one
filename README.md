@@ -1,7 +1,7 @@
 # react-projectstyled-one
 Pagina web utilizando styled components
 
-##OBJETIVOS DA PAGINA
+## OBJETIVOS DA PAGINA
 
 1. Agora que você sabe como colocar um estilo nas suas páginas
 React e criar componentes para reaproveitá-los. Vamos praticar o
